@@ -1,0 +1,10 @@
+name: my_env
+channels:
+    - defaults
+dependencies:
+    - pandas
+    - numpy
+    - matplotlib
+    - seaborn
+    - math
+    - sklearn
