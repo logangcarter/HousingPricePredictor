@@ -2,5 +2,5 @@ pandas
 numpy==1.26
 matplotlib
 seaborn
-sci-kit-learn
+scikit-learn
 ipywidgets
