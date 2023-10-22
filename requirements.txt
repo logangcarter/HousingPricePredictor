@@ -1,7 +1,7 @@
 pandas
-numpy
+numpy==1.26
 matplotlib
 seaborn
-math
+math==3.11.6
 sklearn
 ipywidgets
